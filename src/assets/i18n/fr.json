@@ -1,0 +1,6 @@
+{
+    "hello": "Bonjour",
+    "ROUTES": {
+        "home": "accueil"
+      }
+}
